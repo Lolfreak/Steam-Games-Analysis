@@ -8,7 +8,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - Glyn Jong (@Glynjong)
 - Brian Goh (@ykrainn)
 ## Background
-- As an avid fan of video games, we as a team decided to find out whether we are able to find a steam game that is trending and can be the **next**big hit.
+- As an avid fan of video games, we as a team decided to find out whether we are able to find a steam game that is trending and can be the **next** big hit.
 ## Problem Definition
 - Are we able to predict if a steam game is good based on its attributes? (how good is based on its review 90% positive)
 - Which model is used to be the best to predict it?
