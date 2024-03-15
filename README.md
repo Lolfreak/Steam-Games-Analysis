@@ -3,7 +3,7 @@
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Steam Games from the Steam Games Dataset from Kaggle. The walkthrough is presented here, please view the source code in order from:
 1. Test1
 2. Test2
-## List of Contributors FCSD_TEAM 7
+## List of Contributors (FCSD_TEAM 7)
 - Muhd Alfiq (@Lolfreak)
 - Glyn Jong (@Glynjong)
 - Brian Goh (@ykrainn)
