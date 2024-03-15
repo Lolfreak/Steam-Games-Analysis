@@ -5,4 +5,5 @@ This is a Mni-Project for SC1015 (Introduction to Data Science and Artificial In
 3.
 4.
 5.
-*Contributors*
+#Contributors
+
