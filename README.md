@@ -10,7 +10,7 @@ This is a Mni-Project for SC1015 (Introduction to Data Science and Artificial In
 - Muhd Alfiq (@Lolfreak)
 - Glyn Jong (@Glynjong)
 - Brian Goh (@ykrainn)
-# Problem Definition
+## Problem Definition
 - Are we able to predict if a steam game is good based on its attributes? (how good is based on its review 90% positive)
 - Which model is used to be the best to predict it?
 - 
