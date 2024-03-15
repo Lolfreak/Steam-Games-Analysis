@@ -1,6 +1,6 @@
 # Steam-Games-Analysis
 # About
-This is a Mni-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Steam Games from the Steam Games Dataset from Kaggle. The walkthrough is presented here, please view the source code in order from:
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Steam Games from the Steam Games Dataset from Kaggle. The walkthrough is presented here, please view the source code in order from:
 1. Test1
 2. Test2
 ## List of Contributors FCSD_TEAM 7
@@ -10,8 +10,12 @@ This is a Mni-Project for SC1015 (Introduction to Data Science and Artificial In
 ## Problem Definition
 - Are we able to predict if a steam game is good based on its attributes? (how good is based on its review 90% positive)
 - Which model is used to be the best to predict it?
+## Models Used
+- Test
 ## Conclusion
 - test
+## Lessons Learned
+- Test
 ## References
 - https://www.kaggle.com/datasets/nikatomashvili/steam-games-dataset
 - https://steamdb.info/charts/
