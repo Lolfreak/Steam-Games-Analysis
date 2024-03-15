@@ -1,11 +1,8 @@
 # Steam-Games-Analysis
 # About
 This is a Mni-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Steam Games from the Steam Games Dataset from Kaggle. The walkthrough is presented here, please view the source code in order from:
-1.
-2.
-3.
-4.
-5.
+1. Test1
+2. Test2
 ## List of Contributors FCSD_TEAM 7
 - Muhd Alfiq (@Lolfreak)
 - Glyn Jong (@Glynjong)
@@ -17,3 +14,5 @@ This is a Mni-Project for SC1015 (Introduction to Data Science and Artificial In
 - test
 ## References
 - https://www.kaggle.com/datasets/nikatomashvili/steam-games-dataset
+- https://steamdb.info/charts/
+- https://steamdb.info/sales/
