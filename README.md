@@ -1,7 +1,7 @@
 # Welcome to FCSD_TEAM 7's Steam-Games-Analysis!
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Steam Games from the Steam Games Dataset from Kaggle. The walkthrough is presented here, please view the source code in order from:
-1. Data Extraction
+1. [Data Cleaning](https://github.com/Lolfreak/Steam-Games-Analysis/blob/main/data-cleaning.ipynb)
 2. Data Visualization
 3. Test
 ## List of Contributors (FCSD_TEAM 7)
