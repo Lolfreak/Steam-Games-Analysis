@@ -4,7 +4,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 1. [Data Cleaning](https://github.com/Lolfreak/Steam-Games-Analysis/blob/main/data-cleaning.ipynb)
 2. Data Visualization
 3. Test
-## List of Contributors (FCSD_TEAM 7)
+## List of Contributors (FCSD_TEAM 6)
 - Muhd Alfiq (@Lolfreak)
 - Glyn Jong (@Glynjong)
 - Brian Goh (@ykrainn)
@@ -18,7 +18,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Conclusion
 - test
 ## Lessons Learned
-- Test
+- Learn how to use regex (Regular Expression) to allow us to remove certain words on a string
 ## References
 - https://www.kaggle.com/datasets/nikatomashvili/steam-games-dataset
 - https://steamdb.info/charts/
