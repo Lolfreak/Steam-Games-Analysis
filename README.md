@@ -20,6 +20,6 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Lessons Learned
 - Learn how to use regex (Regular Expression) to allow us to remove certain words on a string
 ## References
-- https://www.kaggle.com/datasets/nikatomashvili/steam-games-dataset
+- [Steam Games Dataset](https://www.kaggle.com/datasets/nikdavis/steam-store-games?resource=download)
 - https://steamdb.info/charts/
 - https://steamdb.info/sales/
