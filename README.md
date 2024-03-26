@@ -9,9 +9,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - Glyn Jong (@Glynjong)
 - Brian Goh (@ykrainn)
 ## Background
-- As an avid fan of video games, we as a team decided to find out whether we are able to predict the price of a game using various variables to show that the game is successful.
+- As an avid fan of video games, we as a team decided to find out whether we are able to find out whether single-player or multi-player games are more popular using various variables.
 ## Problem Definition
-- Are we able to predict if a steam game is good based on its attributes? (how good is based on its review 90% positive)
+- Are we able to predict if a multi-player or single-player steam game is popular based on its attributes? (how popular is based on its average playtime using separate single-player and multi-player dataset)
 - Which model is used to be the best to predict it?
 ## Models Used
 - Test
