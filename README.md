@@ -9,7 +9,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - Glyn Jong (@Glynjong)
 - Brian Goh (@ykrainn)
 ## Background
-- As an avid fan of video games, we as a team decided to find out whether we are able to find what makes a steam game good.
+- As an avid fan of video games, we as a team decided to find out whether we are able to predict the price of a game using various variables to show that the game is successful.
 ## Problem Definition
 - Are we able to predict if a steam game is good based on its attributes? (how good is based on its review 90% positive)
 - Which model is used to be the best to predict it?
