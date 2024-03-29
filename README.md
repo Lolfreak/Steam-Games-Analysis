@@ -3,11 +3,11 @@
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Steam Games from the Steam Games Dataset from Kaggle. The walkthrough is presented here, please view the source code in order from:
 1. [Data Cleaning](https://github.com/Lolfreak/Steam-Games-Analysis/blob/main/data-cleaning.ipynb)
 2. Data Visualization
-3. Test
+3. Machine Learning
 ## List of Contributors (FCSD_TEAM 6)
-- Muhd Alfiq ([@Lolfreak](https://github.com/Lolfreak))
-- Glyn Jong ([@Glynjong](https://github.com/Glynjong))
-- Brian Goh ([@ykrainn](https://github.com/ykrainn))
+* Brian Goh ([@ykrainn](https://github.com/ykrainn)) - Data Cleaning & Data Visualisation
+* Glyn Jong ([@Glynjong](https://github.com/Glynjong)) - Machine Learning (xxxxx)
+* Muhd Alfiq ([@Lolfreak](https://github.com/Lolfreak)) - Intro & Conclusion (Data Analysis)
 ## Background
 - As an avid fan of video games, we as a team decided to find out whether we are able to find out whether single-player or multi-player games are more popular using various variables.
 ## Problem Definition
