@@ -5,9 +5,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 2. Data Visualization
 3. Test
 ## List of Contributors (FCSD_TEAM 6)
-- Muhd Alfiq (@Lolfreak)
-- Glyn Jong (@Glynjong)
-- Brian Goh (@ykrainn)
+- Muhd Alfiq ([@Lolfreak](https://github.com/Lolfreak))
+- Glyn Jong ([@Glynjong](https://github.com/Glynjong))
+- Brian Goh ([@ykrainn](https://github.com/ykrainn))
 ## Background
 - As an avid fan of video games, we as a team decided to find out whether we are able to find out whether single-player or multi-player games are more popular using various variables.
 ## Problem Definition
