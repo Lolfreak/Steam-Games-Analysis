@@ -9,9 +9,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 * Glyn Jong ([@Glynjong](https://github.com/Glynjong)) - Machine Learning (Core Analysis)
 * Muhd Alfiq ([@Lolfreak](https://github.com/Lolfreak)) - Data Analysis (Your motivation & Finish Strong)
 ## Background
-- As an avid fan of video games, we as a team decided to find out whether we are able to find out whether single-player or multi-player games are more popular using various variables.
+- With a high number of active users using Steam, what can businesses and game companies do to leverage on this platform? They will need more information so that they could invest in the ventures of the video game industry effectively by finding out what draws in the greatest number of players. This leads to our problem definition.
 ## Problem Definition
-- Are we able to predict if a multi-player or single-player steam game is popular based on its attributes? (how popular is based on its average playtime using separate single-player and multi-player dataset)
+- Find out what makes a video game (on steam) popular and whether we are able to categorise the games using various variables.
 - Which model is used to be the best to predict it?
 ## Models Used
 - Test
@@ -21,5 +21,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - Learn how to use regex (Regular Expression) to allow us to remove certain words on a string
 ## References
 - [Steam Games Dataset](https://www.kaggle.com/datasets/nikdavis/steam-store-games?resource=download)
-- https://steamdb.info/charts/
-- https://steamdb.info/sales/
+- [How brands can leverage gaming as an engagement channel](https://www.warc.com/newsandopinion/opinion/how-brands-can-leverage-gaming-as-an-engagement-channel/en-gb/3931)
+- [What Do Investors Look for in a Game Developer?](https://www.gamedeveloper.com/business/what-do-investors-look-for-in-a-game-developer-)
+- [Steam Charts](https://steamdb.info/charts/)
+- [Steam Sales](https://steamdb.info/sales/)
