@@ -27,4 +27,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - [What Do Investors Look for in a Game Developer?](https://www.gamedeveloper.com/business/what-do-investors-look-for-in-a-game-developer-)
 - [Steam Charts](https://steamdb.info/charts/)
 - [Steam Sales](https://steamdb.info/sales/)
+- [HistGradientBoostingRegressor](https://scikit-learn.org/stable/modules/ensemble.html)
+- [AdaBoost](https://scikit-learn.org/stable/modules/ensemble.html#adaboost)
+- [XGBoost](https://machinelearningmastery.com/feature-importance-and-feature-selection-with-xgboost-in-python/)
+- [RandomForest](https://scikit-learn.org/stable/modules/ensemble.html#random-forests)
 # ![8a16xve5nzs81](https://github.com/Lolfreak/Steam-Games-Analysis/assets/70129212/2bda4f79-751f-4f6d-8644-9b569c2c0210)
