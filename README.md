@@ -1,6 +1,6 @@
 # Welcome to Steam-Games-Analysis!
 ## About
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Steam Games from the Steam Games Dataset from Kaggle. The walkthrough is presented here, please view the source code in order from:
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Steam Games from the [Steam Games Dataset](https://www.kaggle.com/datasets/nikdavis/steam-store-games?resource=download) from [Kaggle](https://www.kaggle.com). The walkthrough is presented [here](https://github.com/Lolfreak/Steam-Games-Analysis), please view the source code in order from:
 1. [Data Cleaning](https://github.com/Lolfreak/Steam-Games-Analysis/blob/main/data-cleaning.ipynb)
 2. [Data Visualization](https://github.com/Lolfreak/Steam-Games-Analysis/blob/main/data_visualization.ipynb)
 3. [Machine Learning](https://github.com/Lolfreak/Steam-Games-Analysis/blob/main/MachineLearning.ipynb)
@@ -34,6 +34,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - Learning many different forms of Machine Learning Models which were not taught in the SC1015 course such as Random Forest Classifier and XGBoost.
 ## References
 - [Steam Games Dataset](https://www.kaggle.com/datasets/nikdavis/steam-store-games?resource=download)
+- [Steam Spy](https://steamspy.com)
 - [How brands can leverage gaming as an engagement channel](https://www.warc.com/newsandopinion/opinion/how-brands-can-leverage-gaming-as-an-engagement-channel/en-gb/3931)
 - [What Do Investors Look for in a Game Developer?](https://www.gamedeveloper.com/business/what-do-investors-look-for-in-a-game-developer-)
 - [Steam Charts](https://steamdb.info/charts/)
