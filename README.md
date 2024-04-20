@@ -8,10 +8,11 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 * ![4b73dc1055a27d3a5b9e2a37be344b412](https://github.com/Lolfreak/Steam-Games-Analysis/assets/70129212/39188377-9def-4118-8238-e70b6158a0c1) Glyn Jong ([@Glynjong](https://github.com/Glynjong)) - Machine Learning (Core Analysis)
 * ![ddoti21-a26e9393-d2ca-4802-a142-4cc3329d07da2](https://github.com/Lolfreak/Steam-Games-Analysis/assets/70129212/4fea2ff8-b4e1-4a2b-9caa-06eb523ad547) Brian Goh ([@ykrainn](https://github.com/ykrainn)) - Data Cleaning & Data Visualisation (Set the stage)
 * ![Beru_Solo_leveling2](https://github.com/Lolfreak/Steam-Games-Analysis/assets/70129212/29320996-d64d-4374-b3c7-638bb9b15668) Muhd Alfiq ([@Lolfreak](https://github.com/Lolfreak)) - Data Analysis, Conclusion (Your motivation & Finish Strong)
-## Background
+## Background & Motivation
+- In 2023, the Steam platform reported around 33 million peak concurrent Steam users worldwide, an increase from 27.4 million in just two years from 2021. There are also over 73 thousand games available on Steam, with over 9000 games being published in the first 9 months of 2023 alone. This shows that Steam is the main platform of many gamers who would want to purchase and play many different varieties of games.
 - With a high number of active users on Steam, what can businesses and game companies do to leverage on this platform by learning about the trends in gaming? This leads to our problem definition.
 ## Problem Definition
-- We would to like to find out what makes a video game (on steam) popular.
+- We would to like to **find out what makes a video game (on steam) popular**.
 - Which model is used to be the best to predict it?
 ## Models Used
 - [Random Forest Classifier](https://scikit-learn.org/stable/modules/ensemble.html#random-forests) - An ensemble learning method for classification and regression
@@ -21,8 +22,15 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Conclusion
 - We have found out that there are 5 main factors that affects average playtime which makes games popular. These 5 factors are Owners, Workshop, Multiplayer, Trading Cards and Age. We will omit Owners and Age as it is not a factor that can be used to work on new games.
 - We would recommend businesses and investors to work on new games that are able to satisfy these 3 factors which are, the game has to be a multiplayer game, the game has to provide or have a community workshop and also have trading cards. This will ensure that the new game will have all the popular factors which attracts gamers. Thus, this will exponentially increase the chance on making the next popular game. 
-## Lessons Learned
-- Learn how to use regex (Regular Expression) to allow us to remove certain words on a string
+## Lessons Learned/Key Takeaways
+- Normalize data with large value by using natural log.
+- Do one-hot encoding by splitting the columns for ito be used for data analysis into individual variables.
+- Handling large datasets and analyzing our given dataset and trying to find a suitable predictor.
+- Identifying and retaining the important data while removing the irrelevant data. (Streamlining the data)
+- Work with limited results and drawing suitable connections.
+- Finding correlation between the response variable and the predictor variables.
+- Learn how to use regex (Regular Expression) to allow us to remove certain words and phrases on a string.
+- Learning many different forms of Machine Learning Models which were not taught in the SC1015 course such as Random Forest Classifier and XGBoost.
 ## References
 - [Steam Games Dataset](https://www.kaggle.com/datasets/nikdavis/steam-store-games?resource=download)
 - [How brands can leverage gaming as an engagement channel](https://www.warc.com/newsandopinion/opinion/how-brands-can-leverage-gaming-as-an-engagement-channel/en-gb/3931)
