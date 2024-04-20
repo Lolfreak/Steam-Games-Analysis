@@ -4,6 +4,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 1. [Data Cleaning](https://github.com/Lolfreak/Steam-Games-Analysis/blob/main/data-cleaning.ipynb)
 2. [Data Visualization](https://github.com/Lolfreak/Steam-Games-Analysis/blob/main/data_visualization.ipynb)
 3. [Machine Learning](https://github.com/Lolfreak/Steam-Games-Analysis/blob/main/MachineLearning.ipynb)
+4. [Presentation Slides](https://github.com/Lolfreak/Steam-Games-Analysis/blob/main/FCSD%20Group%206%20SC1015%20Steam%20Games%20Analysis.pdf) (Optional)
 ## List of Contributors (FCSD_TEAM 6)
 * ![4b73dc1055a27d3a5b9e2a37be344b412](https://github.com/Lolfreak/Steam-Games-Analysis/assets/70129212/39188377-9def-4118-8238-e70b6158a0c1) Glyn Jong ([@Glynjong](https://github.com/Glynjong)) - Machine Learning (Core Analysis)
 * ![ddoti21-a26e9393-d2ca-4802-a142-4cc3329d07da2](https://github.com/Lolfreak/Steam-Games-Analysis/assets/70129212/4fea2ff8-b4e1-4a2b-9caa-06eb523ad547) Brian Goh ([@ykrainn](https://github.com/ykrainn)) - Data Cleaning & Data Visualisation (Set the stage)
