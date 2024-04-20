@@ -16,7 +16,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Models Used
 - [Random Forest Classifier](https://scikit-learn.org/stable/modules/ensemble.html#random-forests) - An ensemble learning method for classification and regression
 - [XGBoost](https://machinelearningmastery.com/feature-importance-and-feature-selection-with-xgboost-in-python/) (eXtreme Gradient Boosting) - Distributed Gradient Boosted Decision Tree
-- [AdaBoost](https://scikit-learn.org/stable/modules/ensemble.html#adaboost) (Adaptive Boosting) - A decision tree which uses a boost technique that uses statistical classification meta-algorithm
+- [AdaBoost](https://scikit-learn.org/stable/modules/ensemble.html#adaboost) (Adaptive Boosting) - A decision tree which uses a boost technique that makes use of a statistical classification meta-algorithm
 - [HistGradientBoostingRegressor](https://scikit-learn.org/stable/modules/ensemble.html) (Histogram Gradient Boosting) - A boosting regressor which uses an ensemble machine learning algorithm.
 ## Conclusion
 - We have found out that there are 5 main factors that affects average playtime which makes games popular. These 5 factors are Owners, Workshop, Multiplayer, Trading Cards and Age. We will omit Owners and Age as it is not a factor that can be used to work on new games.
