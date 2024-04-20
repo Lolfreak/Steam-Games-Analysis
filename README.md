@@ -11,7 +11,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 * ![Beru_Solo_leveling2](https://github.com/Lolfreak/Steam-Games-Analysis/assets/70129212/29320996-d64d-4374-b3c7-638bb9b15668) Muhd Alfiq ([@Lolfreak](https://github.com/Lolfreak)) - Data Analysis, Conclusion (Your motivation & Finish Strong)
 ## Background & Motivation
 - In 2023, the Steam platform reported around 33 million peak concurrent Steam users worldwide, an increase from 27.4 million in just two years from 2021. There are also over 73 thousand games available on Steam, with over 9000 games being published in the first 9 months of 2023 alone. This shows that Steam is the main platform of many gamers who would want to purchase and play many different varieties of games.
-- With a high number of active users on Steam, what can businesses and game companies do to leverage on this platform by learning about the trends in gaming? This leads to our problem definition.
+- With a high number of active users on Steam, what can businesses and game companies do to leverage on this platform by learning about the trends in gaming. This leads to our problem definition.
 ## Problem Definition
 - We would to like to **find out what makes a video game (on steam) popular**.
 - Which model is used to be the best to predict it?
@@ -21,8 +21,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - [AdaBoost](https://scikit-learn.org/stable/modules/ensemble.html#adaboost) (Adaptive Boosting) - A decision tree which uses a boost technique that makes use of a statistical classification meta-algorithm
 - [HistGradientBoostingRegressor](https://scikit-learn.org/stable/modules/ensemble.html) (Histogram Gradient Boosting) - A boosting regressor which uses an ensemble machine learning algorithm.
 ## Conclusion
-- We have found out that there are 5 main factors that affects average playtime which makes games popular. These 5 factors are Owners, Workshop, Multiplayer, Trading Cards and Age. We will omit Owners and Age as it is not a factor that can be used to work on new games.
-- We would recommend businesses and investors to work on new games that are able to satisfy these 3 factors which are, the game has to be a multiplayer game, the game has to provide or have a community workshop and also have trading cards. This will ensure that the new game will have all the popular factors which attracts gamers. Thus, this will exponentially increase the chance on making the next popular game. 
+- We have found out that there are **5 main factors** that affects average playtime which makes games popular. These **5 factors** are **Owners, Workshop, Multiplayer, Trading Cards and Age**. We will omit Owners and Age as it is not a factor that can be used to work on new games.
+- We were surprised with the results as we have gained insight on how gamers nowadays would like **multiplayer games** that have **trading cards** and have a **community workshop**. This shows that gamers would like to play games when they are able to play it with their friends or online players. Gamers would also value getting rewards when they play a game as trading cards are given to the player after a set number of hours which makes gamers feel rewarded. Also, the trading card itself can also be sold for real-life money. Finally, gamers also prefer to be able to mod or modify and change the game that adds to the replayability of the game which increases the average playtime of the game.
+- Thus, we would recommend businesses and investors to work on new games that are able to satisfy these 3 factors which are, the game has to be a **multiplayer game**, the game has to provide or **have a community workshop** and also have **trading cards**. This will ensure that the new game will have **all the popular factors** which attracts gamers. Thus, this will exponentially increase the chance on **making the next popular game**. 
 ## Lessons Learned/Key Takeaways
 - Normalize data with large value by using natural log.
 - Do one-hot encoding by splitting the columns for ito be used for data analysis into individual variables.
