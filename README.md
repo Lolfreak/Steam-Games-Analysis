@@ -20,7 +20,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - [HistGradientBoostingRegressor](https://scikit-learn.org/stable/modules/ensemble.html) (Histogram Gradient Boosting) - A boosting regressor which uses an ensemble machine learning algorithm.
 ## Conclusion
 - We have found out that there are 5 main factors that affects average playtime which makes games popular. These 5 factors are Owners, Workshop, Multiplayer, Trading Cards and Age. We will omit Owners and Age as it is not a factor that can be used to work on new games.
-- We would recommend businesses and investors to work on new games that are able to satisfy these 3 factors which are, the game has to be a multiplayer game, the game has to provide or have a community workshop and also have trading cards. These will ensure that the new game will have all the popular factors which attracts gamers. This will exponentially increase the chance on making the next popular game. 
+- We would recommend businesses and investors to work on new games that are able to satisfy these 3 factors which are, the game has to be a multiplayer game, the game has to provide or have a community workshop and also have trading cards. This will ensure that the new game will have all the popular factors which attracts gamers. Thus, this will exponentially increase the chance on making the next popular game. 
 ## Lessons Learned
 - Learn how to use regex (Regular Expression) to allow us to remove certain words on a string
 ## References
