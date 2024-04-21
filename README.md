@@ -36,8 +36,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## References
 - [Steam Games Dataset](https://www.kaggle.com/datasets/nikdavis/steam-store-games?resource=download)
 - [Steam Spy](https://steamspy.com)
+- [Steam Charts](https://steamdb.info/charts/)
+- [Steam Background Sales](https://www.statista.com/topics/4282/steam/#topicOverview)
 - [How brands can leverage gaming as an engagement channel](https://www.warc.com/newsandopinion/opinion/how-brands-can-leverage-gaming-as-an-engagement-channel/en-gb/3931)
 - [What Do Investors Look for in a Game Developer?](https://www.gamedeveloper.com/business/what-do-investors-look-for-in-a-game-developer-)
-- [Steam Charts](https://steamdb.info/charts/)
-- [Steam Sales](https://steamdb.info/sales/)
 # ![8a16xve5nzs81](https://github.com/Lolfreak/Steam-Games-Analysis/assets/70129212/2bda4f79-751f-4f6d-8644-9b569c2c0210)
