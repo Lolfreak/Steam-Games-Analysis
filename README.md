@@ -26,7 +26,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - Thus, we would recommend businesses and investors to work on new games that are able to satisfy these 3 factors which are, the game has to be a **multiplayer game**, the game has to provide or **have a community workshop** and also have **trading cards**. This will ensure that the new game will have **all the popular factors** which attracts gamers. Thus, this will exponentially increase the chance on **making the next popular game**. 
 ## Lessons Learned/Key Takeaways
 - Normalize data with large value by using natural log.
-- Do one-hot encoding by splitting the columns for ito be used for data analysis into individual variables.
+- Do one-hot encoding by splitting the columns for it to be used for data analysis into individual variables.
 - Handling large datasets and analyzing our given dataset and trying to find a suitable predictor.
 - Identifying and retaining the important data while removing the irrelevant data. (Streamlining the data)
 - Work with limited results and drawing suitable connections.
